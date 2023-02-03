@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QUINTA-D4-EX1/src"/>
+	<classpathentry kind="src" path="SEXTA-D4-EX1/src"/>
+	<classpathentry kind="lib" path="SEXTA-D4-EX1/bib/console-table-builder-1.2.jar"/>
+	<classpathentry kind="output" path="QUINTA-D4-EX1/out/production/QUINTA-D4-EX1"/>
+</classpath>
